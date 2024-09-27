@@ -6,8 +6,10 @@
 
 <h2>📜 Certifications </h2>
 
-- [Self Driving Cars - University Toronto]
-- [Machine Learning - Stanford University]
+- [Self Driving Cars - University Toronto][Self-Driving Cars Zertifikat.pdf](https://github.com/user-attachments/files/17163252/Self-Driving.Cars.Zertifikat.pdf)
+
+- [Machine Learning - Stanford University][Ml-Stanford University.pdf](https://github.com/user-attachments/files/17163245/Ml-Stanford.University.pdf)
+
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -17,7 +19,6 @@
 
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
