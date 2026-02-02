@@ -1,9 +1,5 @@
 <h1>Hi, I'm Sandro! </h1>
 
-<h2>💻 Machine Learning Projects - Kaggle:</h2>
-
-- [Hello World Project](https://github.com/)
-
 <h2>📜 Certifications </h2>
 
 - [Self Driving Cars - University Toronto][Self-Driving Cars Zertifikat.pdf](https://github.com/user-attachments/files/17163252/Self-Driving.Cars.Zertifikat.pdf)
